@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>HasRemovalPasscode</key>
+	<false/>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadCertificateFileName</key>
+			<string>cert.crt</string>
+			<key>PayloadContent</key>
+			<data>
+			LS0tLS1CRUdJTiBDRVJUSUZJQ0FURS0tLS0tCk1JSURkRENDQWx3
+			Q0NRREtidk8xUU52Q0dUQU5CZ2txaGtpRzl3MEJBUXNGQURCOE1R
+			c3dDUVlEVlFRR0V3SlcKVGpFVE1CRUdBMVVFQ0F3S1FtbHVhQ0JV
+			YUdGdWFERVVNQklHQTFVRUJ3d0xTRzhnUTJocElFMXBibWd4RWpB
+			UQpCZ05WQkFvTUNVWnBRVkFnVkdWaGJURVBNQTBHQTFVRUN3d0dT
+			VzR0UVhCd01SMHdHd1lEVlFRRERCUkdZV3RsCklHbEJVQ0JEWlhK
+			MGFXWnBZMkYwWlRBZUZ3MHlNREEwTURVeE56UXlORGhhRncweU1U
+			QTBNRFV4TnpReU5EaGEKTUh3eEN6QUpCZ05WQkFZVEFsWk9NUk13
+			RVFZRFZRUUlEQXBDYVc1b0lGUm9ZVzVvTVJRd0VnWURWUVFIREF0
+			SQpieUJEYUdrZ1RXbHVhREVTTUJBR0ExVUVDZ3dKUm1sQlVDQlVa
+			V0Z0TVE4d0RRWURWUVFMREFaSmJpMUJjSEF4CkhUQWJCZ05WQkFN
+			TUZFWmhhMlVnYVVGUUlFTmxjblJwWm1sallYUmxNSUlCSWpBTkJn
+			a3Foa2lHOXcwQkFRRUYKQUFPQ0FROEFNSUlCQ2dLQ0FRRUF2eGM0
+			a2RudDJmTm9SZDJCaFFXY3cveWxJa1J1NUdwKzk2OTVqZ1ljWDdN
+			RQppblFZTFBJRDhhSWNWalpkS21lWWY1L2tFZHYrY3Yzc3hlK0pB
+			WUFidUhQOGlIaDUreUdndG5ldkRoeTJ0V1NhClBJSFdsNWlMbFl0
+			UWN2MXV4M3ZqUUprcnFCRW0wc28rbzA1aVo1bDRRSU15Um9aUmVV
+			TUVsc01BY3VDZFFicDkKamRMYmZJbzN5SlUrbi9jZFFTajFIeUgy
+			dWloWWsyMHR3Z1BhSGFKNXZtUnpZQ0dLSXZtZFgzbk9Lb1pTMEo0
+			ZgpvQlZQcUM2bFR2NjVMNVdYc2RCWlN6TFN3NFVjdnFjVjdEVHAy
+			V1h6THhUcjd3bDFMbU1DWGZpVlk0S0trSU9ZCmZteWx1TnhEcFhU
+			c1piMDhyTHM0TkR2aHRBOEtHaEpRdkJYallyb2h0UUlEQVFBQk1B
+			MEdDU3FHU0liM0RRRUIKQ3dVQUE0SUJBUUJPUEQ1SXhWeFVJNXlt
+			RjQ5dVpJRG8vb1hFbFMzY1ZwNnh1aXppNi8weDdMRzUyc1FhUmxL
+			egplY0preGQrWHpmNS9WOFZreTN3enREcGFmME5ZU3NLdTRPRDJy
+			aW5EelBxMTUvTWw4cys5aEluQitoRUwwSVoyCmFmMmtWSzRvcll3
+			UUNDWm1TbUNMODRvMXQrQWl1Q3MyWTBZSFNRbHFnRjY5L1B4aDkr
+			NHBad3E3SVk3YmRGVE0KK2c0Tm45ZEt3S0VDQ2s0aUdacnBicDc4
+			N21VUjBscDZaWG1yL3ViOU9IL28zYmdtS2xnVnMrZUNFci82S2hh
+			Zgo4T2hNNlZ6dktJSC9XTnRmZXlhb01FSWZHRVc2Q3FadTRmM0ZX
+			alJTUFc1ejkwbllicHpaalpnZlRwY0ZsTkhFCjN1OGxKZGlYbStk
+			Z3ZtSEROSDd2Umh5T3JXZVRDQTZOCi0tLS0tRU5EIENFUlRJRklD
+			QVRFLS0tLS0K
+			</data>
+			<key>PayloadDescription</key>
+			<string>Adds a CA root certificate</string>
+			<key>PayloadDisplayName</key>
+			<string>Fake iAP Certificate</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.security.root.05F4788C-779F-4DCD-AC71-E0F808381024</string>
+			<key>PayloadType</key>
+			<string>com.apple.security.root</string>
+			<key>PayloadUUID</key>
+			<string>05F4788C-779F-4DCD-AC71-E0F808381024</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>This profile will be remove on 04/06/2020</string>
+	<key>PayloadDisplayName</key>
+	<string>Fake iAP Profile</string>
+	<key>PayloadIdentifier</key>
+	<string>tests-Mac.56725CAF-237D-42F3-80C6-AD80555AE48A</string>
+	<key>PayloadOrganization</key>
+	<string>FiAP Team</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>6D6899C1-8A2D-4C10-89FA-1B68F7980702</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+	<key>RemovalDate</key>
+	<date>2020-04-06T16:44:34Z</date>
+</dict>
+</plist>
